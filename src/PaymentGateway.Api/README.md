@@ -163,7 +163,7 @@ flowchart TD
 
 Before running the application, ensure you have the following installed:
 
-- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)z
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - Git
 
